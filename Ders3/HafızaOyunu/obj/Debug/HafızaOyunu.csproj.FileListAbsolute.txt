@@ -1,0 +1,10 @@
+D:\littleProjects\HafızaOyunu\bin\Debug\HafızaOyunu.exe.config
+D:\littleProjects\HafızaOyunu\bin\Debug\HafızaOyunu.exe
+D:\littleProjects\HafızaOyunu\bin\Debug\HafızaOyunu.pdb
+D:\littleProjects\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.AssemblyReference.cache
+D:\littleProjects\HafızaOyunu\obj\Debug\HafızaOyunu.Form1.resources
+D:\littleProjects\HafızaOyunu\obj\Debug\HafızaOyunu.Properties.Resources.resources
+D:\littleProjects\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.GenerateResource.cache
+D:\littleProjects\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.CoreCompileInputs.cache
+D:\littleProjects\HafızaOyunu\obj\Debug\HafızaOyunu.exe
+D:\littleProjects\HafızaOyunu\obj\Debug\HafızaOyunu.pdb
